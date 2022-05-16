@@ -1,0 +1,8 @@
+﻿  laba_2.cpp
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(85,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(85,17): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(86,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(86,17): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(87,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\laba_2\laba_2\laba_2.cpp(87,17): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  laba_2.vcxproj -> C:\Users\user\Desktop\laba_2\Debug\laba_2.exe
